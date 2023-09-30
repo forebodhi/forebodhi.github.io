@@ -113,3 +113,11 @@
 .xolotl.lux-track {
     --accent: rgba(99, 88, 62);
 }
+
+.puck.lux-track {
+    --accent: rgba(24, 140, 51);
+}
+
+.james.lux-track {
+    --accent: rgba(126, 147, 148);
+}
